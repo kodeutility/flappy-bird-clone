@@ -22,8 +22,7 @@ There are 2 color pipes which are randomly selected at the beginning of the game
 The games tracks score for the current gameplay and high score for the current session.
 
 # Gameplay screenshots
-![screenshot 1](gameplay-ss-1.png)
-![screenshot 2](gameplay-ss-2.png)
+![screenshot 2](gameplay-screenshot.png)
 
 # Instructions
 - [Watch the video](https://www.youtube.com/channel/UCaytXdmsBMc-g8VwQNVMoCg) for installation and gameplay.
