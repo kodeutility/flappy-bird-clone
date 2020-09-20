@@ -4,7 +4,7 @@ The game is clone of famous android game "Flappy Bird".
 
 **Flappy Bird** is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company dotGears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
 
-The game is created for learning purpose only. The repository can be cloned and be played in you computer.
+The game is created for learning purpose only. The repository can be cloned and be played in your computer.
 
 There are 2 themes which are randomly selected at the beginning of the game.
 - Day
